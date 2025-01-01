@@ -1,0 +1,16 @@
+.navbar-brand {
+    font-weight: 600;
+}
+
+.nav-link{
+    color: white;
+}
+
+.logo{
+    height: 70px;
+}
+
+.navbar-active {
+    text-decoration: underline;
+    pointer-events: none;
+}
